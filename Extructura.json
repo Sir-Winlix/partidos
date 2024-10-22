@@ -1,0 +1,16 @@
+{
+    "links": [
+        {
+            "name": "Partido 1",
+            "url": "acestream://enlace1",
+            "description": "Descripción del partido 1",
+            "category": "Deportes"
+        },
+        {
+            "name": "Película 1",
+            "url": "acestream://enlace3",
+            "description": "Descripción de la película 1",
+            "category": "Cine"
+        }
+    ]
+}
