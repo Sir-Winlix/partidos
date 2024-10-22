@@ -1,8 +1,7 @@
 {
     "links": [
-        {"name": "M.L. Campeones 1080 Multiaudio ", "url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-        {"name": "M.L. Campeones 1080 MultiAudio2", "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
-        {"name": "M.L. Campeones 1080P", "url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"},
-        {"name": "M.L. Campeones 720", "url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"}
+        {"Campeones 1080 MultiAudio": "Partido 2", "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
+        {"name": "Película 1", "url": "acestream://enlace3"},
+        {"name": "Película 2", "url": "acestream://enlace4"}
     ]
 }
