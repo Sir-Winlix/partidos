@@ -1,0 +1,18 @@
+{
+    "categories": [
+        {
+            "name": "Deportes",
+            "links": [
+                {"name": "Partido 1", "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
+                {"name": "Partido 2", "url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"}
+            ]
+        },
+        {
+            "name": "Cine",
+            "links": [
+                {"name": "Película 1", "url": "acestream://enlace3"},
+                {"name": "Película 2", "url": "acestream://enlace4"}
+            ]
+        }
+    ]
+}
