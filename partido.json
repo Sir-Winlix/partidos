@@ -1,7 +1,16 @@
 {
     "links": [
-        {"Campeones 1080 MultiAudio": "Partido 2", "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"},
-        {"name": "Película 1", "url": "acestream://enlace3"},
-        {"name": "Película 2", "url": "acestream://enlace4"}
+        {
+            "name": "Deportes",
+            "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"
+        },
+        {
+            "name": "Cine",
+            "url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"
+        },
+        {
+            "name": "Música",
+            "url": "acestream://enlace_musica"
+        }
     ]
 }
