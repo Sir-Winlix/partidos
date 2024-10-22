@@ -1,18 +1,8 @@
 {
-    "categories": [
-        {
-            "name": "Deportes",
-            "links": [
-                {"name": " M.L. Campeones 1080 Multiaudio ", "url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
-                {"name": "Partido 2", "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9": "Partido1"}
-            ]
-        },
-        {
-            "name": "Cine",
-            "links": [
-                {"name": "Película 1", "url": "acestream://enlace3"},
-                {"name": "Película 2", "url": "acestream://enlace4"}
-            ]
-        }
+    "links": [
+        {"name": "Partido 1", "url": "acestream://enlace1"},
+        {"name": "Partido 2", "url": "acestream://enlace2"},
+        {"name": "Película 1", "url": "acestream://enlace3"},
+        {"name": "Película 2", "url": "acestream://enlace4"}
     ]
 }
